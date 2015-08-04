@@ -1,2 +1,2 @@
-# FunGarden
+# MyGarden
 AnschlussProjektSS2015
